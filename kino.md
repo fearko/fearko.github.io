@@ -1,8 +1,9 @@
 ---
 layout: page
-navigation_title: About
+navigation_title: KINO
 title: About Evento
 permalink: /kino/
+button: true
 ---
 
 [Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
